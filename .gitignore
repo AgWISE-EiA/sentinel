@@ -1,0 +1,8 @@
+*.nc
+.Rproj
+.RData
+.Rproj.user
+.Rprofile
+.Rhistory
+gadm
+renv
